@@ -318,6 +318,7 @@ def taxable_ss_benefits(
 - [SSA ANYPIA Calculator](https://www.ssa.gov/oact/anypia/anypia.html) — Official SSA tool for computing exact PIA from earnings history
 - [i-ORP (Optimal Retirement Planner)](http://www.i-orp.com/) — Integrates SS claiming with Roth conversion, RMD, and tax optimization
 - [Bogleheads Social Security Spreadsheet](https://www.bogleheads.org/wiki/Social_Security) — Community-maintained spreadsheet for break-even and spousal analysis
+- [SSDI Earnings Limit 2027 Calculator](https://colacalculator2027.com/ssdi-earnings-limit-2027/) — Free browser tool for 2027 SSDI substantial gainful activity (SGA) / trial work period earnings limits; runs client-side with no signup
 
 ---
 
